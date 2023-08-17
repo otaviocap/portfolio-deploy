@@ -1,0 +1,1 @@
+import{_ as i,r as a,c as e,f as n,d as s,t as _,o as t}from"./entry.debfde12.js";const r={},d={initial:{opacity:0,y:0,x:100},enter:{opacity:1,y:0,x:0},delay:300};function l(c,p){const o=a("motion");return t(),e("div",null,[n((t(),e("p",d,[s(_(c.$t("home.text")),1)])),[[o]])])}const x=i(r,[["render",l],["__scopeId","data-v-cf5eca8d"]]);export{x as default};
