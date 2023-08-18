@@ -1,1 +1,0 @@
-import{f as e,g as t,o,c as s,a}from"./entry.9de705d4.js";const n=a("p",null,"404",-1),r=[n],d=e({__name:"[...slug]",setup(c){return t().push({path:"/"}),(_,p)=>(o(),s("div",null,r))}});export{d as default};
