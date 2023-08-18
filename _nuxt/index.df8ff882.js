@@ -1,0 +1,1 @@
+import{_ as a,r as c,c as e,h as n,d as s,t as _,o as t}from"./entry.9de705d4.js";const r={},d={initial:{opacity:0,y:0,x:100},enter:{opacity:1,y:0,x:0},delay:300};function l(o,p){const i=c("motion");return t(),e("div",null,[n((t(),e("p",d,[s(_(o.$t("home.text")),1)])),[[i]])])}const v=a(r,[["render",l],["__scopeId","data-v-58615a51"]]);export{v as default};
